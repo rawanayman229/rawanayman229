@@ -2,7 +2,7 @@
  I’m interested in coding and I have a strong passion for creating websites. 👩‍💻
  I’m currently learning Frontend and Backend technologies . 📚
  I’m looking to learn more about web technologies and Frameworks.🎯
- Technologies that I work with : HTML, CSS, JavaScripta and Bootstrap.🛠️
+ Technologies that I work with : HTML, CSS, JavaScript , jQuery and Bootstrap.🛠️
 
 <!---
 rawanayman229/rawanayman229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
