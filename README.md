@@ -1,7 +1,7 @@
  Hi, I’m Rawan Ayman 👋
  I’m interested in coding and I have a strong passion for creating websites. 👩‍💻
  I’m looking to learn more about web technologies and Frameworks.🎯
- Technologies that I work with : HTML, CSS, JavaScript ,BootstrapTailwind CSS,ReactJS, NextJS ,NodeJs and MongooseDB.🛠️
+ Technologies that I work with : HTML, CSS, JavaScript ,BootstrapTailwind CSS,ReactJS, NextJS ,NodeJs and MongoDB.🛠️
 
 <!---
 rawanayman229/rawanayman229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
